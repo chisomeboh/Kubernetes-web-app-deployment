@@ -56,3 +56,9 @@ stop your Minikube cluster
 minikube stop
 
 
+**Links**
+
+mongodb image on Docker Hub: https://hub.docker.com/_/mongo
+k8s official documentation: https://kubernetes.io/docs/home/
+webapp code repo: https://gitlab.com/nanuchi/developing-with-docker/-/tree/feature/k8s-in-hour
+
