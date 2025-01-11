@@ -1,11 +1,10 @@
 # Kubernetes-web-app-deployment
 
 K8s manifest files
-
-mongo-config.yaml
-mongo-secret.yaml
-mongo.yaml
-webapp.yaml
+mongo-config.yaml,
+mongo-secret.yaml,
+mongo.yaml,
+webapp.yaml.
 
 
 **K8s commands**
